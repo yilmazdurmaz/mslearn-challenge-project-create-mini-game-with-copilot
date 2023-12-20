@@ -1,0 +1,4 @@
+- change "devcontainer.json" file so that is includes "github.copilot" extension for vscode
+- edit "app.py" and write comments to instruct the CoPilot to write the program
+
+- MS Bing Chat in Edge Browser can also help for poor me
